@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/urooj fatima memon" target="blank"><img src="https://img.shields.io/twitter/follow/urooj fatima memon?logo=twitter&style=for-the-badge" alt="urooj fatima memon" /></a> </p>
 
-- ?? I’m currently working on **Reduce the waste of food**
+- ?? I’m currently working on **my professional website **
 
 - ?? I’m currently learning **React**
 
-- ?? Ask me about **Android,HTML.CSS,javascript**
+- ?? Ask me about **HTML.CSS,javascript , Bootstrap , react.js**
 
 - ?? How to reach me **uroojmemon.xwave@gmail.com**
 
-- ? Fun fact **Iam funny**
+- ? Fun fact **Iam funny..!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
